@@ -5,9 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Not Gatsby's default starter
 </h1>
+<h2>But Leons TypeScript SetUp instead</h2>
 
+
+<p>all of the following information is for the default boilerplate and may or may not apply<p>
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
